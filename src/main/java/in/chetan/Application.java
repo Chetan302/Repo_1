@@ -8,6 +8,13 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
+		
+	}
+	public static void getAccess(String UName, String uPwd){
+   
+        //logic to authontication and authorization
+
+
 	}
 
 }
