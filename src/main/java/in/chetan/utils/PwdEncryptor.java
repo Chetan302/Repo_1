@@ -13,4 +13,9 @@ public class PwdEncryptor {
 		String string = encodedPwd.toString();
 		return string;
 	}
+	
+	public void pwdDecryptor() {
+		
+		//logic to decrypt password
+	}
 }
