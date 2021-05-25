@@ -6,6 +6,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 
+
+	private int a = 10;
+
+	
+
    private String status= "";
    private static final String REST_URL = "www.lobOne.com/login";
     
