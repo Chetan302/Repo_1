@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
+   private String status= "";
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
